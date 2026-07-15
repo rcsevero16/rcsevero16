@@ -28,5 +28,5 @@ Meus principais interesses científicos e profissionais estão na intersecção 
 ### 📫 Como me encontrar
 
 * **Website do Laboratório:** [HeMoLab/LNCC](http://hemolab.lncc.br/)
-* **Lattes:** [Seu Currículo Lattes](http://lattes.cnpq.br/4619237340455096)
-* **LinkedIn:** [Seu LinkedIn](linkedin.com/in/robson-cabral-severo-35471119b)
+* **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/4619237340455096)
+* **LinkedIn:** [LinkedIn](linkedin.com/in/robson-cabral-severo-35471119b)
