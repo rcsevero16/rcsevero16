@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Robso! 👋
 
-<!--
-**rcsevero16/rcsevero16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação Acadêmica
+
+* **Doutorando em Modelagem Computacional**
+    * *Laboratório Nacional de Computação Científica (LNCC/MCTI)*
+* **Mestre em Matemática Aplicada**
+    * *Universidade Estadual de Campinas (UNICAMP)*
+* **Bacharel em Matemática**
+    * *Universidade Federal do Rio Grande do Norte (UFRN)*
+
+---
+
+### 🔬 Interesses de Pesquisa
+
+Meus principais interesses científicos e profissionais estão na intersecção entre a Matemática Aplicada e a Computação Científica:
+
+* **Biologia Matemática & Hemodinâmica**
+* **Sistemas Dinâmicos** 
+* **Processos Estocásticos & Séries Temporais**
+
+---
+
+### 📫 Como me encontrar
+
+* **Website do Laboratório:** [HeMoLab/LNCC](http://hemolab.lncc.br/)
+* **Lattes:** [Seu Currículo Lattes](http://lattes.cnpq.br/4619237340455096)
+* **LinkedIn:** [Seu LinkedIn](www.linkedin.com/in/robson-cabral-severo-35471119b)
